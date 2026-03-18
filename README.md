@@ -4,13 +4,13 @@
    <img width="100" height="75" alt="stamp5" src="https://komarev.com/ghpvc/?username=assassinduo&label=˖₊⁺+my+blade..++&color=A6421F" hspace="10" />
 <br />
 <img align="right" src="https://files.catbox.moe/ggf9fd.png" alt="image" width="250" />
-<img align="left" src="https://files.catbox.moe/peh3gb.png" alt="image" width="150" />
+<img align="left" src="https://files.catbox.moe/peh3gb.png" alt="image" width="50" />
 <img align="left" src="https://files.catbox.moe/lcaccn.png" alt="image" width="250" />
 
 
 &nbsp;   &nbsp;   
 ‎<p align="center">
-𓂂︶︶   ୨ ⟡ ୧⠀︶︶𓂂
+⸺ᵔᵔ　⌣　　
 
 ‎ ‎ ‎ ‎ ‎ ‎<p align="center">
   <a href="https://rentry.co/duorapier">ren𝖙ry</a> 𓏴
