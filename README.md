@@ -4,7 +4,7 @@
    <img width="100" height="75" alt="stamp5" src="https://komarev.com/ghpvc/?username=assassinduo&label=˖₊⁺+my+blade..++&color=A6421F" hspace="10" />
 <br />
 <img align="right" src="https://files.catbox.moe/ggf9fd.png" alt="image" width="250" />
-<img align="left" src="https://files.catbox.moe/peh3gb.png" alt="image" width="50" />
+<img align="left" src="https://files.catbox.moe/peh3gb.png" alt="image" width="100" />
 <img align="left" src="https://files.catbox.moe/lcaccn.png" alt="image" width="250" />
 
 
@@ -29,4 +29,5 @@ $${\color{orangered}𓆩our} \space {\color{orangered}githubs:D}$$
   <a href="https://github.com/judeloww"> 𝖏udelow </a> 
             ‎
 
-          ‎
+       "  will you kill everyone with me, if i do the same ?  "
+    "  my blade ? you are my blade.  "     ‎
