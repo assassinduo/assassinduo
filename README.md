@@ -1,4 +1,4 @@
-<img align="left" src="https://files.catbox.moe/m1rywk.png" alt="image" width="170" />
+<img align="center" src="https://files.catbox.moe/m1rywk.png" alt="image" width="170" />
 <br />
  ‎ ‎‎ ‎ ‎ ‎ ‎ ‎<p align="center">
    <img width="100" height="75" alt="stamp5" src="https://komarev.com/ghpvc/?username=assassinduo&label=˖₊⁺+my+blade..++&color=A6421F" hspace="10" />
@@ -23,7 +23,7 @@ $${\color{orangered}𓆩our} \space {\color{orangered}githubs:D}$$
 
   
 &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
-‎<p align="right">
+‎<p align="center">
   <a href="https://github.com/rylannets"> 𝖗ylanets </a> 𓏴 
   <a href="https://github.com/sapaarata">  𝖘aparata </a> 𓏴
   <a href="https://github.com/judeloww"> 𝖏udelow </a> 
