@@ -27,12 +27,6 @@ $${\color{orangered}𓆩our} \space {\color{orangered}githubs:D}$$
   <a href="https://github.com/rylannets"> 𝖗ylanets </a> 𓏴 
   <a href="https://github.com/sapaarata">  𝖘aparata </a> 𓏴
   <a href="https://github.com/judeloww"> 𝖏udelow </a> 
+            ‎
 
-
-
-
-
-
-
-
-
+          ‎
